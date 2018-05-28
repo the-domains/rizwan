@@ -1,0 +1,60 @@
+name: Rizwan
+layout_spectrum: 0.14938300335779786
+typography_spectrum: 0.23384569631889462
+analytics:
+  google: Rizwan
+opengraph:
+  type: Photography
+  appId: Rizwan
+color:
+  brandColors:
+    - '#F3FFFF'
+    - '#F327C6'
+    - '#EB77D0'
+    - '#CD49AC'
+    - '#F19EDE'
+  brandStrength: 0.19328891369514167
+  lightness: 0.958290089154616
+  saturation: 0.8861114932224154
+  rhythmicContrast: 0.7980549274943769
+title: Photography
+description: >-
+  Photography is the science,art,applica tion and practice of creating durable
+  images by recoding light or other electromagnetic radiation, either
+  electronically by means sensitive material such as pho
+author:
+  name: Rizwan
+  url: www.rizwan.com
+  email: rizwancom94@gmail.com
+content_rating:
+  adult: false
+navigation:
+  - name: thegrid.io/rizwan
+    id: f15c15aa-00a0-48a8-9809-dd73bccaa741
+    type: content
+  - name: Photography
+    id: 06b6b53c-7882-4397-ab55-b87c7e3c70a5
+    type: content
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/561c8995-3aec-467d-b7d4-030e0defeec7.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/561c8995-3aec-467d-b7d4-030e0defeec7.jpg
+    metadata:
+      '@type': MediaObject
+      '@context': 'http://schema.org'
+      keywords: []
+      publisher:
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+github: true
