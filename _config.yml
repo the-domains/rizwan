@@ -29,9 +29,6 @@ author:
 content_rating:
   adult: false
 navigation:
-  - name: thegrid.io/rizwan
-    id: f15c15aa-00a0-48a8-9809-dd73bccaa741
-    type: content
   - name: Photography
     id: 06b6b53c-7882-4397-ab55-b87c7e3c70a5
     type: content
