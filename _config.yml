@@ -2,7 +2,9 @@ name: Rizwan
 layout_spectrum: 0.14938300335779786
 typography_spectrum: 0.23384569631889462
 analytics:
+  facebook: Rizwan
   google: Rizwan
+  twitter: Rizwan
 opengraph:
   type: Photography
   appId: Rizwan
